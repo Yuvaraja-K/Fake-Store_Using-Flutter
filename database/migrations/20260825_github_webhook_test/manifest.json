@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "20260825_github_webhook_test",
+  "title": "GitHub webhook artifact import test",
+  "scope": "database",
+  "transaction": "required",
+  "reversibility": "safe",
+  "dependsOn": []
+}
