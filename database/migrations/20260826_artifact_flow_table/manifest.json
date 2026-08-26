@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "20260826_artifact_flow_table",
+  "title": "Create artifact migration flow test table",
+  "scope": "database",
+  "transaction": "required",
+  "reversibility": "safe",
+  "dependsOn": ["20260825_github_webhook_test"]
+}
