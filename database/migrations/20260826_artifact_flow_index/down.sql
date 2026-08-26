@@ -1,0 +1,1 @@
+DROP INDEX public.artifact_migration_flow_test_label_idx;

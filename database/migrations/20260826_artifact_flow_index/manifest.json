@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "20260826_artifact_flow_index",
+  "title": "Index artifact migration flow test labels",
+  "scope": "database",
+  "transaction": "required",
+  "reversibility": "safe",
+  "dependsOn": ["20260826_artifact_flow_table"]
+}
