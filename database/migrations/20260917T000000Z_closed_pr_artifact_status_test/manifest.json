@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "20260917T000000Z_closed_pr_artifact_status_test",
+  "title": "Closed PR artifact status test",
+  "description": "No-op migration used to verify closed pull requests become rejected artifacts.",
+  "scope": "database",
+  "transaction": "required",
+  "reversibility": "safe",
+  "risk": "low",
+  "dependsOn": [],
+  "sourceFiles": []
+}
